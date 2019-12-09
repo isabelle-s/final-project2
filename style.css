@@ -1,0 +1,124 @@
+.grid {
+	border: 3px grey;
+	width: 500px;
+	height: 700px;
+	display: grid;
+	margin-right: 50px;
+}
+
+.box {
+	background-color: grey;
+	color: white;
+	border: 3px black dotted;
+	border-radius: 5px;
+}
+
+a:visited {
+	color: black;
+}
+
+h1 {
+	font-family: Century Gothic;
+	font-size: 50px;
+	color: red;
+	background-color: grey;
+}
+
+h2 {
+	font-size: 25px;
+	font-family: Century Gothic;
+	color: white;
+}
+
+.hp {
+	color: black;
+	padding-left: 1750px;
+}
+
+.el {
+	color: black;
+	padding-left: 1750px;
+}
+
+.cp {
+	color: black;
+	padding-left: 1750px;
+}
+
+.sj {
+	color: black;
+	padding-left: 1750px;
+}
+
+.nm{
+	color:black;
+	font-size: 40px;
+	background-color: grey;
+}
+
+.ja{
+	color: black;
+	font-size: 30px;
+	background-color: grey
+}
+
+.gen{
+	padding-left: 600px;
+}
+
+.stats {
+	height: 700px;
+	width: 700px;
+}
+
+.effect {
+	height: 500px;
+	width: 500px;
+}
+
+.ll {
+	background-color: #ffffcc;
+}
+
+.op{
+	background-color: #BFCEEF ;
+}
+	
+.tg{
+	background-color: #EFBFC7;
+}
+
+.oo{
+	color:black;
+	font-size: 40px;
+}
+
+.homepage {
+	background-color: #BDBDBD;
+	background-image: url('http://wavenewspapers.com/wp-content/uploads/2015/05/homeless-Fwy.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.er {
+	height: 500px;
+	width: 500px;
+}
+
+table {
+	height: 40%;
+	left: 10% margin: 20px auto;
+	overflow-y: scroll;
+	position: static;
+	width: 80%
+}
+
+thead th {
+	background: #B5D8F9;
+	color: #20B2AA;
+	font-family: Century Gothic;
+	font-size: 30px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
